@@ -17,7 +17,7 @@ React Blog Website using Node JS Server
 2. Move to project directory
 3. Run command "npm install" to install node modules
 4. Run command "Npm start" to start server
-5. Browse to "localhost:3000" to see output
+5. Browse to "localhost:4000" to see output
 
 
 
