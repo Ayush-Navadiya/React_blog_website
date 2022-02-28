@@ -25,4 +25,4 @@ React Blog Website using Node JS Server
 ### Api Calling
 
 1. Download Node-JS_Blog-api-server from : https://github.com/Ayush-Navadiya/Node-JS_Blog-api-server
-2. Install and run it for api running
+2. Install and run it for api calling
