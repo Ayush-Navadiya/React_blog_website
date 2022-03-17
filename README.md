@@ -1,7 +1,7 @@
 # React_blog_website
 React Blog Website using Node JS Server
 
-
+---
 ### Prerequisite
 
 1. Download Node JS from : https://nodejs.org/
@@ -10,7 +10,7 @@ React Blog Website using Node JS Server
                                                    1. node --version\
                                                    2. npm --version
 
-
+---
 ### How To Run
 
 1. Open Command Line
@@ -21,8 +21,16 @@ React Blog Website using Node JS Server
 
 
 
-
+---
 ### Api Calling
 
 1. Download Node-JS_Blog-api-server from : https://github.com/Ayush-Navadiya/Node-JS_Blog-api-server
 2. Install and run it for api calling
+
+
+
+
+---
+### Contribute 
+
+Give a thanks with coffee [Here](https://www.buymeacoffee.com/ayushnavadiya).
